@@ -2,7 +2,6 @@
 <div style="text-align: center;">
   <h1>Oi, eu sou Alcielma!</h1>
    <h3 style="font-weight: normal; color: #666;">Cursando Ciência da Computação</h3>
-  <h2 style="font-size: 24px; font-weight: bold; color: #333;">"Future is now"</h2>
 </div>
 
 <div style="display: inline_block"><br>
