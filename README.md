@@ -1,7 +1,7 @@
 
 <div style="text-align: center;">
-  <h1>Oi, eu sou Alcielma!</h1>
-   <h3 style="font-weight: normal; color: #666;">Cursando Ciência da Computação</h3>
+  <h1>My name is Alcielma Luzinete</h1>
+   <h3 style="font-weight: normal; color: #666;">Undergraduate Student in Computer Science at the Federal University of the Agreste of Pernambuco (UFAPE).</h3>
 </div>
 
 <div style="display: inline_block"><br>
